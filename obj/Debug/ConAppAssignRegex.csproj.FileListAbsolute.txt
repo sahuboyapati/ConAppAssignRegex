@@ -1,0 +1,7 @@
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day8\ConAppAssignRegex\ConAppAssignRegex\bin\Debug\ConAppAssignRegex.exe.config
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day8\ConAppAssignRegex\ConAppAssignRegex\bin\Debug\ConAppAssignRegex.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day8\ConAppAssignRegex\ConAppAssignRegex\bin\Debug\ConAppAssignRegex.pdb
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day8\ConAppAssignRegex\ConAppAssignRegex\obj\Debug\ConAppAssignRegex.csproj.AssemblyReference.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day8\ConAppAssignRegex\ConAppAssignRegex\obj\Debug\ConAppAssignRegex.csproj.CoreCompileInputs.cache
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day8\ConAppAssignRegex\ConAppAssignRegex\obj\Debug\ConAppAssignRegex.exe
+C:\Users\Boyapati Sahaja\OneDrive\Desktop\Day8\ConAppAssignRegex\ConAppAssignRegex\obj\Debug\ConAppAssignRegex.pdb
